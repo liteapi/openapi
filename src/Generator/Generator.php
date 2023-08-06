@@ -14,7 +14,7 @@ class Generator
 
 
     /**
-     * @var \Liteapi\Openapi\Generator\Processor\Base\GeneratorProcessor[]
+     * @var GeneratorProcessor[]
      */
     protected array $preProcessors;
 
